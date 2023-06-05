@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+    list-style: none;
+}
+/*Cores primarias*/
+:root {
+    --color-principal: #005CA9;
+    --color-backgraund-claro: #0000009b;
+    --color-black: #000;
+    --color-white: #fff;
+    --color-links: #ffffffa6;
+}
+/*Marcações*/
+strong {
+    color: var(--color-principal);
+}
